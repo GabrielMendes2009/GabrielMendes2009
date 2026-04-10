@@ -1,22 +1,22 @@
-# Oi, eu sou o Gabriel 👋
+# Hi, I'm Gabriel 👋
 
-Sou estudante de programação e crio projetos com **Python**, **C/C++**, **Web** e **outras tecnologias.**
+I'm a programming student building projects with **Python**, **C/C++**, and **other technologies**.
 
-## Atualmente
-- Estudando **Python** e **programação em geral**
-- Desenvolvendo **projetos acadêmicos**
-- Explorando projetos **criativos e jogos**
+## Currently
+- Studying **Python** and **general programming**
+- Developing **academic projects**
+- Exploring **creative projects and games**
 
-## Tecnologias
-- **Linguagens:** Python, C/C++
+## Technologies
+- **Languages:** Python, C/C++
 - **Web:** HTML, CSS
-- **Outros:** Ren'Py
-- Sempre aprendendo novas tecnologias
+- **Others:** Ren'Py
+- Always learning new technologies
 
-## Projetos em destaque
-- **Trabalhos-das-Aulas** - exercícios e projetos acadêmicos  
-- **intervalla-vn** - visual novel feita com Ren'Py  
-- **projetoPython_Grupo** - projeto em grupo em Python  
+## Featured Projects
+- **Trabalhos-das-Aulas** — academic exercises and projects  
+- **intervalla-vn** — visual novel built with Ren'Py  
+- **projetoPython_Grupo** — group project developed in Python  
 
-## Objetivo
-Evoluir como programador, construir projetos cada vez melhores e organizar um bom portfólio.
+## Goal
+To grow as a developer, build better and better projects, and create a solid portfolio.
