@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.hyperhype.es/wp-content/uploads/2023/06/persona-3-reload-3056478-e1686650321529.webp"/>
+  <img src="https://www.hyperhype.es/wp-content/uploads/2023/06/persona-3-reload-3056478-e1686650321529.webp" width="700"/>
 </p>
 
 # Hi 👋
