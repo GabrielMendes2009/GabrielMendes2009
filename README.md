@@ -15,7 +15,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2yq-6S714yrAD8HfKj962tgWcWqicpuDSQ&s" width="300"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2479865469868620516/6AE4A70426E52A064934013CCA612164FEC094B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0" width="300"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/2q7Z6QG.gif" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSDx54-wbmVLhGzW_e8GH8a08qj8OpGK1zA&s" width="300"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/f4cP6gY.gif" width="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSDx54-wbmVLhGzW_e8GH8a08qj8OpGK1zA&s" width="250"/>
 </p>
 
 ---
