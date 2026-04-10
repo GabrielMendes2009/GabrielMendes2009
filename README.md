@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 👋
+# Hi 👋
 
 I'm a programming student building projects with **Python**, **C/C++**, and **other technologies**.
 
