@@ -3,7 +3,7 @@
 I'm a programming student building projects with **Python**, **C/C++**, and **other technologies**.
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMendes2009&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMendes2009&showicons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendes2009&layout=compact&theme=tokyonight)
 
