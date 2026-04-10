@@ -14,9 +14,9 @@ Sou estudante de programação e crio projetos com **Python**, **C/C++**, **Web*
 - Sempre aprendendo novas tecnologias
 
 ## Projetos em destaque
-- **Trabalhos-das-Aulas** — exercícios e projetos acadêmicos  
-- **intervalla-vn** — visual novel feita com Ren'Py  
-- **projetoPython_Grupo** — projeto em grupo em Python  
+- **Trabalhos-das-Aulas** - exercícios e projetos acadêmicos  
+- **intervalla-vn** - visual novel feita com Ren'Py  
+- **projetoPython_Grupo** - projeto em grupo em Python  
 
 ## Objetivo
 Evoluir como programador, construir projetos cada vez melhores e organizar um bom portfólio.
