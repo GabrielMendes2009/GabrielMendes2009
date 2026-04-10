@@ -3,10 +3,9 @@
 I'm a programming student building projects with **Python**, **C/C++**, and **other technologies**.
 
 ## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMendes2009&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMendes2009&layout=compact&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielMendes2009&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielMendes2009&layout=compact&theme=tokyonight)
 
 ## Currently
 - Studying **Python** and **general programming**
