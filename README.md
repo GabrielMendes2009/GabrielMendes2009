@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn2.steamgriddb.com/hero_thumb/0174dc5fbdff12bf660e6be09f2aa9ad.webm"/>
+  <img src="https://cdn2.steamgriddb.com/hero/0174dc5fbdff12bf660e6be09f2aa9ad.webp"/>
 </p>
 
 # Hi 👋
