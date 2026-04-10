@@ -3,7 +3,6 @@
 I'm a programming student building projects with **Python**, **C/C++**, and **other technologies**.
 
 ## Stats
-## Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielMendes2009&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielMendes2009&layout=compact&theme=tokyonight" height="165" />
