@@ -12,6 +12,14 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielMendes2009&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/ZK7Z9Qp.gif" width="300"/>
+</p>
+
+---
+
 ## Currently
 - Studying **Python** and **general programming**
 - Developing **academic projects**
@@ -23,10 +31,26 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 - **Others:** Ren'Py
 - Always learning new technologies
 
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/2q7Z6QG.gif" width="300"/>
+</p>
+
+---
+
 ## Featured Projects
 - **Trabalhos-das-Aulas** — academic exercises and projects  
 - **intervalla-vn** — visual novel built with Ren'Py  
 - **projetoPython_Grupo** — group project developed in Python  
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/f4cP6gY.gif" width="250"/>
+</p>
+
+---
 
 ## Goal
 To grow as a developer, build better and better projects, and create a solid portfolio.
