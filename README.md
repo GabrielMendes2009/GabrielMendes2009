@@ -15,7 +15,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2479865469868620516/6AE4A70426E52A064934013CCA612164FEC094B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0" width="300"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2479865469868620516/6AE4A70426E52A064934013CCA612164FEC094B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/eded8925e677311415f0acfb8c39c599/36f60c10da8c752a-e2/s540x810/cb74abcf71c3a60a1cd17b777bd7c50e2e90b485.gif" width="300"/>
+  <img src="https://64.media.tumblr.com/eded8925e677311415f0acfb8c39c599/36f60c10da8c752a-e2/s540x810/cb74abcf71c3a60a1cd17b777bd7c50e2e90b485.gif"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxb3U5Y3ZrMGx6Y2pvaTF3MTIwcm0xNGxkZXlraW1nN3dseWpzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hdxUvfvA9XDNLiJGcY/giphy.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxb3U5Y3ZrMGx6Y2pvaTF3MTIwcm0xNGxkZXlraW1nN3dseWpzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hdxUvfvA9XDNLiJGcY/giphy.gif"/>
 </p>
 
 ---
