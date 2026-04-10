@@ -47,7 +47,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSDx54-wbmVLhGzW_e8GH8a08qj8OpGK1zA&s" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxb3U5Y3ZrMGx6Y2pvaTF3MTIwcm0xNGxkZXlraW1nN3dseWpzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hdxUvfvA9XDNLiJGcY/giphy.gif" width="250"/>
 </p>
 
 ---
