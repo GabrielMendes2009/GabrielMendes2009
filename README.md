@@ -15,7 +15,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/ZK7Z9Qp.gif" width="300"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2479865469868620516/6AE4A70426E52A064934013CCA612164FEC094B0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?interpolation=lanczos-none&output-format=jpeg&output-quality=70&fit=inside|637:358&composite-to=*,*|637:358&background-color=f0f0f0" width="300"/>
 </p>
 
 ---
