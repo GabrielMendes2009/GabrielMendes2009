@@ -34,7 +34,7 @@ I'm a programming student building projects with **Python**, **C/C++**, and **ot
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSDx54-wbmVLhGzW_e8GH8a08qj8OpGK1zA&s" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHMG1eh2TVEVoEhxgaSP6Cel1iCP-i07-YQ&s" width="300"/>
 </p>
 
 ---
