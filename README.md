@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oi, eu sou o Gabriel 👋
 
-<!--
-**GabrielMendes2009/GabrielMendes2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e crio projetos com **Python**, **C/C++**, **Web** e **outras tecnologias.**
 
-Here are some ideas to get you started:
+## Atualmente
+- Estudando **Python** e **programação em geral**
+- Desenvolvendo **projetos acadêmicos**
+- Explorando projetos **criativos e jogos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- **Linguagens:** Python, C/C++
+- **Web:** HTML, CSS
+- **Outros:** Ren'Py
+- Sempre aprendendo novas tecnologias
+
+## Projetos em destaque
+- **Trabalhos-das-Aulas** — exercícios e projetos acadêmicos  
+- **intervalla-vn** — visual novel feita com Ren'Py  
+- **projetoPython_Grupo** — projeto em grupo em Python  
+
+## Objetivo
+Evoluir como programador, construir projetos cada vez melhores e organizar um bom portfólio.
