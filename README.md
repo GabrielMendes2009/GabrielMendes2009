@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gepig.com/game_cover_bg_1190w/7524.jpg"/>
+  <img src="https://www.hyperhype.es/wp-content/uploads/2023/06/persona-3-reload-3056478-e1686650321529.webp"/>
 </p>
 
 # Hi 👋
