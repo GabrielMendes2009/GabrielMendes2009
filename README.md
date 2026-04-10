@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://cdn.pfps.gg/banners/8341-persona-3.png"/>
+  <img src="https://gepig.com/game_cover_bg_1190w/7524.jpg"/>
 </p>
 
 # Hi 👋
